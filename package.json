@@ -42,6 +42,7 @@
     "eslint-plugin-react": "^3.11.3",
     "node-sass": "^3.3.x",
     "postcss-loader": "^0.6.0",
+    "prop-types": "^15.7.2",
     "react-addons-test-utils": "^15.1.0",
     "react-css-modules": "^3.5.0",
     "sass-loader": "^3.0.0",
@@ -51,7 +52,7 @@
     "webpack-dev-server": "1.12.x"
   },
   "peerDependencies": {
-    "react": "^15.1.0"
+    "react": "^16.0.0"
   },
   "babel": {
     "presets": [
